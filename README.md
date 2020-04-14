@@ -15,7 +15,7 @@ This was my first Kaggle competetion that I participated in. The objective was t
 
 [Link](https://github.com/AhmetFahad/AhmetFahad.github.io/blob/master/students-performance-in-exams.ipynb)
 
-[The dataset](https://www.kaggle.com/spscientist/students-performance-in-exams) is the scores of math, wrtiting and reading secured by students in a high school in the United States accompanied with other features like parental level of education, test preparation course, etc. A brief description for the features provided in the notebook. The objective i chose was to predict the outcome of the tests (Pass of Fail) for a subset of students.
+[The dataset](https://www.kaggle.com/spscientist/students-performance-in-exams) is the scores of math, wrtiting and reading secured by students in a high school in the United States accompanied with other features like parental level of education, test preparation course, etc. A brief description for the features provided in the notebook. The objective i chose was to predict the outcome of the tests (Pass or Fail) for a subset of students.
 
 ## Classification with neural networks.
 
